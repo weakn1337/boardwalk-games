@@ -48,7 +48,7 @@ h3 {
 /* Header */
 
 #header .lead {
-    font-family: var{--secondary-font};
+    font-family: var(--secondary-font);
 }
 
 
