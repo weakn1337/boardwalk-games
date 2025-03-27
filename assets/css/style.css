@@ -106,6 +106,10 @@ h2 {
     font-size: 1.9rem;
     transition: color 0.3s ease-in-out;
 }
+
+#contact .table-dark * {
+    background-color: transparent;
+}
 /* grid visualisation CSS for testing */
 
 /* .container,
