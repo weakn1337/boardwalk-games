@@ -104,6 +104,7 @@ h2 {
 #contact .social-links i {
     color: var(--highlight-color-light);
     font-size: 1.9rem;
+    transition: color 0.3s ease-in-out;
 }
 /* grid visualisation CSS for testing */
 
